@@ -1,5 +1,10 @@
 # To-do/Ideas List
 
+
+
+
+## Pages
+
 1. Index
   - Create Page and Layout
   - What should be on the home page?
